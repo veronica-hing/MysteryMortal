@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/*Header*/
+header{
+  background: pink;
+  padding: 1em;
+}
+header > div{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header p{
+  text-align: right;
+}
+
+/*Description*/
+
+.description{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+}
+
+.description h1{
+  text-align: center;
+  padding-bottom : 1em;
+}
+
+.description p{
+  padding: .5em;
+}
+/*Querent*/
+
+.querent{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.querent p{
+  padding: 5px;
+}
+/*Table*/
+
+.table{
+  background-color: brown;
+  height: 30vh;
+}
+
+/*Cards*/
+.spread{
+  width: 60%;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.card{
+  background-color: pink;
+  display: inline-block;
+  width: 30%;
+  height: 100%;
+  margin: 5px;
+}
