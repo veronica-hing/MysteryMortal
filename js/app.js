@@ -20,6 +20,29 @@ let timing = [ "reconciling past", "an upcoming", "possible"];
 let category = ["relationships", "property", "finances", "employment", "family", "opportunities"];
 /*----Stuff for pulling cards-*/
 const deck = [
+  './images/10cups.jpg',    './images/6cups.jpg',      './images/chariot.jpg',        './images/lovers.jpg',
+'./images/10pent.jpg',    './images/6pent.jpg',      './images/death.jpg',          './images/magician.jpg',
+'./images/10swords.jpg',  './images/6swords.jpg',    './images/devil.jpg',          './images/moon.jpg',
+'./images/10wands.jpg',   './images/6wands.jpg',     './images/emperor.jpg',        './images/pagecups.jpg',
+'./images/2cups.jpg',     './images/7cups.jpg',      './images/empress.jpg',        './images/pagepent.jpg',
+'./images/2pent.jpg',    './images/7pent.jpg',      './images/fool.jpg',           './images/pageswords.jpg',
+'./images/2swords.jpg',   './images/7swords.jpg',    './images/hangedman.jpg',      './images/pagewands.jpg',
+'./images/2wands.jpg',    './images/7wands.jpg',     './images/heirophant.jpg',     './images/queencups.jpg',
+'./images/3cups.jpg',     './images/8cups.jpg',      './images/hermit.jpg',         './images/queenpent.jpg',
+'./images/3swords.jpg',   './images/8swords.jpg',    './images/judgment.jpg',       './images/queenwands.jpg',
+'./images/3wands.jpg',    './images/8wands.jpg',     './images/justice.jpg',        './images/star.jpg',
+'./images/3pent.jpg',     './images/8pent.jpg',      './images/highpriestess.jpg',  './images/queenswords.jpg',
+'./images/4cups.jpg',     './images/9cups.jpg',      './images/kingcups.jpg',       './images/strength.jpg',
+'./images/4pent.jpg',     './images/9pent.jpg',      './images/kingpent.jpg',       './images/sun.jpg',
+'./images/4swords.jpg',   './images/9swords.jpg',    './images/kingswords.jpg',     './images/temperance.jpg',
+'./images/4wands.jpg',    './images/9wands.jpg',     './images/kingwands.jpg',      './images/tower.jpg',
+'./images/5cups.jpg',     './images/acecups.jpg',    './images/knightcups.jpg',     './images/wheeloffortune.jpg',
+'./images/5pent.jpg',     './images/acepent.jpg',    './images/knightpent.jpg',     './images/world.jpg',
+'./images/5swords.jpg',   './images/aceswords.jpg',  './images/knightswords.jpg',
+'./images/5wands.jpg',    './images/acewands.jpg',   './images/knightwands.jpg',
+];
+
+const meck = [
   '../mysteryMortal/images/10cups.jpg',    '../mysteryMortal/images/6cups.jpg',      '../mysteryMortal/images/chariot.jpg',        '../mysteryMortal/images/lovers.jpg',
 '../mysteryMortal/images/10pent.jpg',    '../mysteryMortal/images/6pent.jpg',      '../mysteryMortal/images/death.jpg',          '../mysteryMortal/images/magician.jpg',
 '../mysteryMortal/images/10swords.jpg',  '../mysteryMortal/images/6swords.jpg',    '../mysteryMortal/images/devil.jpg',          '../mysteryMortal/images/moon.jpg',
