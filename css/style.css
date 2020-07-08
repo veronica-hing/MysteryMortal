@@ -69,4 +69,11 @@ header p{
   width: 30%;
   height: 100%;
   margin: 5px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.card img{
+  height: 100%;
+  width: auto;
 }
